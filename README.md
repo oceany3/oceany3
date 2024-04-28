@@ -3,7 +3,7 @@
 ```cmd
 ./task1.sh
 
-<input_dir>
+input_dir
 
-<output_dir>
+output_dir
 ```
