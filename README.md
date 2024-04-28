@@ -1,7 +1,7 @@
 ### Hi 
 Чтобы запустить этот скрипт в командной строке, нужно написать:
 ```cmd
-./task1.sh
-input_dir
-output_dir
+./task1.sh \n
+input_dir \n
+output_dir \n
 ```
